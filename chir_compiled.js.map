@@ -1,0 +1,27 @@
+{"version":3,
+ "file":"E:\\LightTable\\plugins\\chir/compiled.map",
+ "sources":
+ ["E:\\LightTable\\plugins\\chir/src\\lt\\plugins\\chir.cljs"],
+ "lineCount":95,
+ "mappings":
+ "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",
+ "names":
+ ["lt.plugins.chir/log", "s", "js/console", "lt.plugins.chir/r-exist",
+  "cljs.core/atom", "lt.plugins.chir/shell",
+  "lt.util.load/node-module", "lt.plugins.chir/plugin-dir",
+  "lt.objs.plugins/find-plugin", "lt.plugins.chir/r-path",
+  "lt.plugins.chir/sent-items", "lt.plugins.chir/r-help",
+  "lt.plugins.chir/cp", "js/require", "lt.plugins.chir/spawn",
+  "lt.plugins.chir/create-r-proc", "cljs.core/deref",
+  "cljs.core/reset!", "lt.plugins.chir/r-write", "rcon",
+  "lt.plugins.chir/r-read", "ou", "lt.plugins.chir/r-stderr",
+  "lt.plugins.chir/kill", "lt.plugins.chir/__BEH__on-eval__DOT__one",
+  "lt.object/behavior*", "editor", "pos", "lt.objs.editor/->cursor",
+  "info", "cljs.core/conj", "lt.objs.editor/selection?",
+  "lt.objs.editor/selection", "lt.objs.editor/line", "lt.object/raise",
+  "lt.plugins.chir/r", "lt.plugins.chir/__BEH__eval!", "this", "event",
+  "map__7958", "cljs.core/seq?", "cljs.core/apply",
+  "cljs.core/hash-map", "cljs.core/get", "origin", "code",
+  "lt.plugins.chir/get-code", "start", "lt.plugins.chir/get-start",
+  "end", "lt.plugins.chir/get-end", "lt.object/object*",
+  "lt.object/create"]}

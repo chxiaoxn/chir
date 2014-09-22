@@ -1,0 +1,10 @@
+{
+  "name": "chir",
+  "author": "chxiaoxn",
+  "version": "0.1",
+  "source": "https://github.com/chxiaoxn/chir",
+  "desc": "R language plugin for Light Table",
+  "dependencies": {
+  },
+  "behaviors": "chir.behaviors"
+}
