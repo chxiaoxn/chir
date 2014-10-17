@@ -27,6 +27,6 @@ b = function(){
 I am a math student at THU, China. I actually major in pure math, but with interests in programming and statistics. My programming toolkit includes Clojure, R and common lisp. And I also know some python and C/C++.
 
 
+## New Ideas
 
-
-
+I rewrote the code in nodejs way which is event driven, but new problems came up. And also I reconsider the possibility to write the code in the way of socket communication, it turns out that R has no even applicable `thread` functionality and its infinite loop is really memory consuming. So the only way out is add some `bridge` layer, which links Lighttable and R. I am currently thinking about using python to do that which has 
